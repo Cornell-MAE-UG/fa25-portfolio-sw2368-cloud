@@ -3,7 +3,7 @@ layout: project
 title: 3270
 description: Class project with Graphs
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image: /assets/images/3270_10.png
 ---
 ![ee](/assets/images/3270_1.png)
 ![ee](/assets/images/3270_2.png)
