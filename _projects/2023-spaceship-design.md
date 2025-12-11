@@ -37,7 +37,7 @@ controlled mass.
 
 
 System diagram:
-![Control Mass Image](/assets/images/2210/Control_Mass_Image.png)
+![Control Mass Image](assets/images/2210/Control_Mass_Image.png)
 
 Mass balance, Energy balance, and Entropy balance equations: 
 
