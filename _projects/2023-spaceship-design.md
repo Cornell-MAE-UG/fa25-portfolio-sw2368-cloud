@@ -14,7 +14,7 @@ Chosen System: Electric Tea Kettle
 
 Photo of system:
 
-![Control Mass Image]({{ "/assets/images/2210/2210_1.png" | relative_url }})
+![Control Mass Image]("/assets/images/2210/2210_1.png")
 
 
 Qualitative description of the device or system:
@@ -37,7 +37,7 @@ controlled mass.
 
 
 System diagram:
-![Control Mass Image](assets/images/2210/Control_Mass_Image.png)
+![Control Mass Image](/assets/images/2210/Control_Mass_Image.png)
 
 Mass balance, Energy balance, and Entropy balance equations: 
 
