@@ -3,7 +3,7 @@ layout: project
 title: 2210
 description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
-image: /assets/images/2210/2210_1.jpg
+image: /assets/images/2210/2210_1.png
 ---
 
 
