@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Spaceship Design
+title: 2210
 description: Just a spaceship that I designed
 technologies: [SolidWorks, Machining]
 image: /assets/images/spaceship-design.jpg
@@ -14,7 +14,7 @@ Chosen System: Electric Tea Kettle
 
 Photo of system:
 
-
+![Control Mass Image](/assets/images/2210/2210_1.png)
 
 
 Qualitative description of the device or system:
