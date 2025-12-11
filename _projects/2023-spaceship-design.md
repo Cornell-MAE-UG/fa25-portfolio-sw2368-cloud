@@ -14,7 +14,7 @@ Chosen System: Electric Tea Kettle
 
 Photo of system:
 
-![Control Mass Image](/assets/images/2210/2210_1.png)
+![Control Mass Image]({{ "/assets/images/2210/2210_1.png" | relative_url }})
 
 
 Qualitative description of the device or system:
