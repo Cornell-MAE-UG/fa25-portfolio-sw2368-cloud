@@ -5,4 +5,4 @@ description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: assets/images/download (4).png
 ---
-({{ "/assets/GuardiansoftheGrapevineClientPitch.pdf" | relative_url }}) Guardians of the Grapevine Client Pitch.pdf mjm
+[]({{ "/assets/GuardiansoftheGrapevineClientPitch.pdf" | relative_url }}) Guardians of the Grapevine Client Pitch.pdf mjm
