@@ -4,6 +4,5 @@ title: 2250
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: assets/images/download (4).png
-permalink: /cv/
 ---
-({{ "/assets/GuardiansoftheGrapevineClientPitch.pdf" | relative_url }}) Guardians of the Grapevine Client Pitch.pdf
+({{ "/assets/GuardiansoftheGrapevineClientPitch.pdf" | relative_url }}) Guardians of the Grapevine Client Pitch.pdf mjm
