@@ -3,6 +3,6 @@ layout: project
 title: 2250
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: assets/images/download (4).png
 ---
 ({{ "assets/Guardians of the Grapevine Client Pitch.pdf" | relative_url }}) Guardians of the Grapevine Client Pitch.pdf
