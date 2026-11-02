@@ -1,0 +1,15 @@
+{% assign projects = site.projects | sort: "order" %}
+<ol class="work" role="list">
+  {% for project in projects %}
+  <li class="work-item{% unless project.image %} work-item-text{% endunless %}">
+    <div class="work-text">
+      <p class="work-course">{{ project.course }}</p>
+      <h3><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
+      <p>{{ project.summary }}</p>
+    </div>
+    {% if project.image %}
+    <img src="{{ project.image | relative_url }}" alt="{{ project.imagealt }}" loading="lazy">
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>

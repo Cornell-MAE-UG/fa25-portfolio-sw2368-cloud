@@ -1,28 +1,18 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Site settings
+locale: "en-US"
+title: Skyler Walcoff
+tagline: Mechanical Engineering
+name: Skyler Walcoff
+email: sw2368@cornell.edu
+description: Skyler Walcoff is a mechanical engineering student at Cornell who leads the Cornell Autonomous Sailboat Team.
 
-
-# Site Settings
-locale                   : "en-US"
-title                    : Skyler Walcoff
-title_separator          : Skyler Walcoff
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : Skyler Walcoff
-description              : Skyler Walcoff - Projects and CV 
-baseurl                  : "/fa25-portfolio-sw2368-cloud" # Set this to your repo name 
-
-# Theme and Style
-theme: jekyll-theme-minimal
-color_scheme: dark # light/default, dark, or aqua
+# baseurl is left unset on purpose: GitHub Pages fills it in from the repo name,
+# so the site keeps working if the repo is renamed.
+# To preview locally: bundle exec jekyll serve
 
 sass:
   style: compressed
 
-# Outputting
 permalink: /:categories/:title/
 
 collections:
@@ -32,14 +22,17 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
 
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

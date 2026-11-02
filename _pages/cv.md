@@ -1,74 +1,45 @@
 ---
 layout: default
-title: Skyler Walcoff - Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
-## Curriculum Vitae
+<div class="cv" markdown="1">
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+# Curriculum vitae
 
+[sw2368@cornell.edu](mailto:sw2368@cornell.edu)
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+## Education
 
----
+**Cornell University**, B.S. Mechanical Engineering, expected December 2027
 
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+## Experience
 
----
+**Astrion, SEG group**, Intern  
+Integrated air and missile defense simulation.
 
-#### Education
-- **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+**Red Six Solutions (an SPA Company)**, Mechanical Engineering Intern, May to August 2025  
+Assembled and manufactured Group 1-3 UAS, did CAD work, and supported counter-UAS Red Team testing.
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+## Leadership
 
----
+**CUSail, Cornell Autonomous Sailboat Team**, Team Lead  
+Lead a team of 48. Previously led the mechanical subteam through hull and deck manufacturing using resin infusion and composite layup.
 
-#### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+**Alpha Sigma Phi, Iota Chapter**, President
 
----
+## Skills
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+**Design and analysis:** SolidWorks, Fusion 360, ANSYS Mechanical, Fluent and ACP, DELFTship, MATLAB
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+**Manufacturing:** resin infusion, composite layup, CNC machining on the ProtoTRAK KMX, SolidCAM and Fusion 360 CAM, 3D printing
 
----
+## Certifications
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+FAA Part 107 Remote Pilot (sUAS)
 
----
+ASA 104 Bareboat Cruising
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+PADI Advanced Open Water
 
----
-
-#### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
-
----
+</div>

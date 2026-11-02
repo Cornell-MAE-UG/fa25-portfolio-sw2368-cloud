@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section class="hero">
+  {% include hull-lines.svg %}
+  <div class="hero-text">
+    <h1>Skyler<br>Walcoff</h1>
+    <p>Mechanical engineering at Cornell, graduating December 2027. I lead the Cornell Autonomous Sailboat Team and work on composite structures, uncrewed aircraft and simulation.</p>
+  </div>
+</section>
+
+<section class="seeking">
+  <p>I'm looking for a summer 2027 mechanical engineering internship, anywhere in the U.S. <a href="mailto:{{ site.email }}">Email me</a> or <a href="{{ "/cv/" | relative_url }}">read my CV</a>.</p>
+</section>
+
+<section class="band" aria-labelledby="work">
+  <h2 id="work">Projects</h2>
+  {% include project-list.html %}
+</section>
+
+<section class="band about" aria-labelledby="about">
+  <img src="{{ "/assets/images/skyler-walcoff.png" | relative_url }}" alt="Skyler Walcoff wearing a CUSail team shirt" loading="lazy">
+  <div>
+    <h2 id="about">About</h2>
+    <p>At CUSail I've worked on a hull from hydrostatics through CFD to resin infusion. In internships I've assembled Group 1-3 uncrewed aircraft at Red Six Solutions and worked on missile defense simulation at Astrion.</p>
+    <p>I'm also President of the Iota Chapter of Alpha Sigma Phi, an FAA Part 107 remote pilot, and a certified bareboat skipper and diver.</p>
+  </div>
+</section>
