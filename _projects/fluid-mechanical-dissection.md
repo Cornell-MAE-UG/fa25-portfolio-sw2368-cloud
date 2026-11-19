@@ -1,9 +1,10 @@
 ---
-layout: default
-title: Fluid-Mechanical Dissection
-image: /assets/images/function-graph.png
+layout: project
+order: 5
+title: Fluid-mechanical dissection
+course: MAE 3230
+summary: Taking apart a fluid-handling device to trace how it moves and controls flow. Write-up coming soon.
+technologies: []
 ---
 
-# Fluid-Mechanical Dissection
-
-MAE 3230 project. Coming soon.
+Project write-up coming soon.
